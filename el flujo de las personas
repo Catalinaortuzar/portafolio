@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<title>Portafolio</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<body>
+<link href="https://fonts.googleapis.com/css?family=Advent+Pro" rel="stylesheet">
+<div class="encabezado">
+<a href="index.html">Diseñadora Catalina Ortúzar</a>
+</div>
+<h3>El flujo de las personas</h3>
+<p>PROYECTO DE ABSTRACCIÓN DEL RECORRIDO</p>
+<p>La interacción que se observa es el acto de esperar locomoción pública (micros). Entonces, se produce una interacción entre el espacio y personas. 
+El espacio es una franja larga y angosta en la que la gente se dispone en forma de hilera. Esta hilera se genera por superposiciones en forma de zigzag, que permiten dejar la mirada despejada para visualizar el vehículo en aproximación.  Se forma a través de relaciones en diagonales. 
+Es un recorrido cíclico que tiene  constantes reinicios. Se contiene y distiende. Tiene cambios reiterados.  Aumenta el flujo hasta llegar a un pick. Es ahí donde  vuelve a comenzar y a aumentar de nuevo. 
+Es un orden sin intensión, que funciona. Rige cómo las personas se posicionan en el lugar. Es un diálogo entre el objeto y la persona. 
+El espacio influye en el habitar de la persona, pero es ésta  la que crea el espacio por la manera en que se posicionan las personas. 
+Sus nudos  son los puntos de pick que marcan el paso y ritmo del recorrido y la interacción. </p>
+<h4>ILUSTRACIONES</h4>
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/f/fc/Flujo_1-01.png">
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/c/c4/Flujo7-01.png">
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/7/7c/Flujo8-01.png">
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/4/4f/Flujo9-01.png">
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/4/48/Flujo5-01.png">
+<div id="partefinal">
+<a href="https://www.instagram.com/catalinafernadaortuzar/?hl=es" target="_blank"><img src="http://wiki.ead.pucv.cl/images/e/e9/Icono_instagram_5.png"/></a>
+</div>
+</body>
+</html>
