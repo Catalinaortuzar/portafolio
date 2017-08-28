@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<title>Portafolio</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<link href="https://fonts.googleapis.com/css?family=Advent+Pro" rel="stylesheet">
+<div class="encabezado">
+<a href="index.html">Diseñadora Catalina Ortúzar</a>
+</div>
+<h3>Lo Simple del Tíbet</h3>
+<p>DETENCIÓN CONTENIDA EN LA CONTEMPLACIÓN</p>
+<p>Lo simple se entiende como el momento de detención contenido y concentrado.
+La sensación de lo íntegro, puro y esencial. El permanecer en el instante de conexión y contemplación. Cuando se está en un estado total, en que la propia experiencia que se está viviendo del momento es lo importante, y nada más distrae.</p></div>
+<p>EL ARTE TIBETANO</p>
+<p>Brindan el momento de viajar a otra dimensión mediante la representación de deidades, seres iluminados y maestros espirituales.
+Siguen a su vez, el orden de mandala, denominados como círculos sagrados, del centro y sus alrededores. Cada elemento y su posición dentro de la imagen, tienen un significado. Se conforma por una figura central, que por lo general, es Buda, del cual se trazan líneas y crean una diagramación. Es una imagen elaborada que tiene como objetivo una visualización meditativa</p></div>
+<h4>MATERIAL EDITORIAL</h4>
+<img class="grafiti" src="http://wiki.ead.pucv.cl/images/0/0a/Tibet1-01.png">
+<img class="grafiti" src="http://wiki.ead.pucv.cl/images/0/0c/Tibet2-01.png">
+<img class="contraste1" src="http://wiki.ead.pucv.cl/images/0/07/Tibet3-01.png">
+<img class="grafiti" src="http://wiki.ead.pucv.cl/images/b/bd/Tibet4-01.png">
+<div id="partefinal">
+<a href="https://www.instagram.com/catalinafernadaortuzar/?hl=es" target="_blank"><img src="http://wiki.ead.pucv.cl/images/e/e9/Icono_instagram_5.png"/></a>
+</div>
+</body>
+</html>
