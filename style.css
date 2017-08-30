@@ -76,7 +76,7 @@ font-size: 15px;
 	  margin: auto;
 }
 #sobremi{
-	background-image: url(http://wiki.ead.pucv.cl/images/b/b0/Sobremi1-01.png);
+	background-image: url(sobre.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;
@@ -88,7 +88,7 @@ font-size: 15px;
 	  margin-bottom: 50px;
 }
 #proyectositem{
-background-image: url(http://wiki.ead.pucv.cl/images/9/93/Proyectos-01.png);
+background-image: url(proyectos.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;
@@ -117,7 +117,7 @@ background-image: url(http://wiki.ead.pucv.cl/images/9/93/Proyectos-01.png);
 	float: center;
 }
 #contraste{
-	background-image: url(http://wiki.ead.pucv.cl/images/b/b5/Contraste-01.png);
+	background-image: url(contraste.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;	
@@ -125,7 +125,7 @@ background-image: url(http://wiki.ead.pucv.cl/images/9/93/Proyectos-01.png);
 }
 #asidesimple{
 	margin: auto;
-	background-image: url(http://wiki.ead.pucv.cl/images/2/2f/Asidesimple-01.png);
+	background-image: url(asi.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;	
@@ -133,14 +133,14 @@ background-image: url(http://wiki.ead.pucv.cl/images/9/93/Proyectos-01.png);
 }
 #grafiti{
 	margin: auto;
-	background-image: url(http://wiki.ead.pucv.cl/images/0/00/Grafiti-01.png);
+	background-image: url(grafiti.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;	
 	 	 margin-bottom: 50px;
 }
 #tibet{
-	background-image: url(http://wiki.ead.pucv.cl/images/6/6a/Tibet-01.png);
+	background-image: url(tibet.png);
 	background-size:cover;
 	height: auto;
 	 background-repeat: no-repeat;	
@@ -148,7 +148,7 @@ background-image: url(http://wiki.ead.pucv.cl/images/9/93/Proyectos-01.png);
 	 	 margin-bottom: 50px;
 }
 #elflujodelaspersonas{
-	background-image: url(http://wiki.ead.pucv.cl/images/d/d7/Flujo_11-01.png);
+	background-image: url(flujo.png);
 	background-size:cover;
 	 background-repeat: no-repeat;	
 	 margin: auto;
@@ -464,5 +464,3 @@ margin-top:0;
 	margin-right: 7%;
 	margin-top: 50px;
 }
-
-
