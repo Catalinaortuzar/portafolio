@@ -1,3 +1,8 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
 .viewport{
     zoom: 1.0;
     width: extend-to-zoom;
@@ -221,7 +226,7 @@ input[type=mensaje] {
 	width: 70%;
 	margin-bottom: 30px;
 }
-.contraste1{
+.c1,.c2,.a1{
 	width: 70%;
 	margin: auto;
 }
@@ -308,6 +313,7 @@ font-size: 20px;
 	 line-height: 40px;	
 	 columns: 2;
 	 column-gap: 100px;
+	 margin:auto;
 }
 #uno{
 	width: 50%;
@@ -428,11 +434,35 @@ h4{
 #partefinal{
 margin-top: 200px;
 }
-.contraste1{
-	width: 40%;
+#imagenes{
+	display: flex;
+	flex-direction: row;
 }
-.grafiti{
-	width: 30%;
+.columna1,.columna2{
+	display: flex;
+	flex-direction: column;
+}
+.c1{
+	width: 60%;
+	margin-bottom: 5px;
+}
+.c2{
+	width: 60%;
+margin-bottom: 5px;
+margin-top:0;
+}
+.a1{
+	width: 50%;
+	margin-bottom: 5px;
+	margin-left: 25%;
+}
+.columna1{
+	margin-top: 40px;
+		margin-left: 7%;
+}
+.columna2{
+	margin-right: 7%;
+	margin-top: 50px;
 }
 
 
